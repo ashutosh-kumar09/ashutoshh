@@ -83,11 +83,32 @@ function triggerReasonCards() {
 
 /* ---- Letter Typing Animation ---- */
 const letterContent = [
-  "Palak, aaj humara ek aur saal saath bitaane ka din hai, aur mera dil khushi se bhar gaya hai.",
-  "\n\nTumse milne se pehle mujhe nahi pata tha ki pyaar itna gehri cheez hoti hai. Tumhari ek muskaan ne meri poori duniya badal di.",
-  "\n\nHar ek woh pal yaad hai — chai peete hue teri baat sunna, tumhari hansi mein kho jaana, tumhare saath waqt ka behna.",
-  "\n\nTum sirf meri girlfriend nahi ho — tum meri sabse best friend ho, meri strength ho, meri calm ho.",
-  "\n\nAaj, is khaas din pe, main sirf yeh kehna chahta hoon: I love you, Palak. Aaj bhi, kal bhi, hamesha. ❤️"
+  ""Palak,
+
+
+
+Jis din tum meri life mein aayi  woh meri zindagi ka sabse acha pal tha Us din se meri poori duniya badal gayi. Pehle sab kuch normal tha, lekin tumhare aane ke baad har din special lagne laga. 
+
+
+
+Tumhare saath bitaya hua har ek moment mere liye sabse khoobsurat memory hai. Tumhare saath hasna, tumhare saath rona, tumse baatein karna, aur kabhi-kabhi bina kuch kahe sirf tumhare saath rehna bhi mujhe bahut pasand hai.
+
+
+
+Tum meri girlfriend nahi ho, tum mere best biwi ho, meri strength aur meri khushi ho. Har khushi aur har mushkil mein tumne mera saath diya hai, aur isi liye main har baar tumhe hi chunta hoon. 
+
+
+
+Aaj bhi jab main apni life ki sabse achi cheez ke baare mein sochta hoon, to sabse pehle tumhara naam aata hai. Tumne meri zindagi ko itna pyaar, itni khushiyan aur itni pyari yaadein di hain ki shayad main kabhi unhe shabdon mein poori tarah bayan nahi kar sakta.
+
+
+
+Ye sirf hamari kahani ka ek chapter nahi hai, ye meri poori kahani hai  aur main chahta hoon ki is kahani ka har agla panna bhi tumhare saath hi likha jaye. 
+
+
+
+I love you, Palak. Aaj bhi, kal bhi, aur hamesha. ❤️"
+. ❤️"
 ];
 
 let typingTimer = null;
